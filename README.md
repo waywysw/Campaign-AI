@@ -1,1 +1,1 @@
-# Discord-TTRPG-LLM
+# Campaign-AI
